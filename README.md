@@ -19,7 +19,7 @@
 
 ## Results
 
-
+<p align="center">
 <img src="./assets/Average_execution_time.png" width="500">
-
-![](.\assets\Execution time comparision.png)
+<img src="./assets/Execution time comparision.png" width="500">
+</p>
