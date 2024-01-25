@@ -19,6 +19,6 @@
 
 ## Results
 
-![](.\assets\Average_execution_time.png)
+![](./assets/Average_execution_time.png)
 
 ![](.\assets\Execution time comparision.png)
