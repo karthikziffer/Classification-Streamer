@@ -20,5 +20,6 @@
 ## Results
 
 ![](./assets/Average_execution_time.png = 250x250)
+<img src="./assets/Average_execution_time.png" width="48">
 
 ![](.\assets\Execution time comparision.png)
