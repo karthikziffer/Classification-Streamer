@@ -19,7 +19,7 @@
 
 ## Results
 
-![](./assets/Average_execution_time.png = 250x250)
-<img src="./assets/Average_execution_time.png" width="48">
+
+<img src="./assets/Average_execution_time.png" width="500">
 
 ![](.\assets\Execution time comparision.png)
